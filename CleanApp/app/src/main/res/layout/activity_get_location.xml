@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/getLocationMap"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GetLocationActivity">
+
+    <!--<de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/addLocationBtn"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="end|bottom"
+        android:paddingEnd="20dp"
+        android:paddingBottom="20dp"
+        android:src="@drawable/ic_check"
+        app:backgroundTint="@color/lightGray" />-->
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/addLocationBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@color/lightGray"
+        android:src="@drawable/ic_check"
+        app:backgroundTint="@color/lightGray" />
+</fragment>

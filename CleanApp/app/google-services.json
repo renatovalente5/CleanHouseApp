@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "783039794613",
+    "firebase_url": "https://housecleanaveiro-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "housecleanaveiro",
+    "storage_bucket": "housecleanaveiro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783039794613:android:45b814922717f94ef6ddfc",
+        "android_client_info": {
+          "package_name": "com.example.houseclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783039794613-afccd3q8jf1l3037hm23heqqgs0avtcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7J7D8cJx9MJVA5OdiV4rN8i26vPVX6SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783039794613-afccd3q8jf1l3037hm23heqqgs0avtcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783039794613:android:4c36f6424068640bf6ddfc",
+        "android_client_info": {
+          "package_name": "pt.ua.houseclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783039794613-afccd3q8jf1l3037hm23heqqgs0avtcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7J7D8cJx9MJVA5OdiV4rN8i26vPVX6SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783039794613-afccd3q8jf1l3037hm23heqqgs0avtcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

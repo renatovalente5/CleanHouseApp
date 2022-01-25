@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingHorizontal="16dp"
+    android:paddingVertical="8dp"
+    tools:showIn="@layout/fragment_houses">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/houseLstImg"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:src="@drawable/ic_home" />
+
+    <TextView
+        android:id="@+id/houseLstTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/houseLstImg"
+        android:layout_marginStart="16dp"
+        android:layout_toEndOf="@+id/houseLstImg"
+        android:textColor="@color/darkGray"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/houseLstAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/houseLstTitle"
+        android:layout_marginStart="16dp"
+        android:layout_toEndOf="@+id/houseLstImg"
+        android:ellipsize="end"
+        android:lines="2"
+        android:textColor="@color/darkGray"
+        android:textSize="16sp" />
+</RelativeLayout>
