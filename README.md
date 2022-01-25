@@ -5,9 +5,6 @@ Application for customer users who need their homes clean <br>
   ```
   Credentials:
   
-    email: jacinto.luf@gmail.com
-    pass: 123456
-  
     email: renato@gmail.com
     pass: renato
   ```
