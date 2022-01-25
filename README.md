@@ -20,5 +20,5 @@ Application for cleaners <br>
     email: ana@gmail.com
     pass: 12345
   ```
-
-
+# How to run the application:
+Use the credentials provided above. It is also possible to create new ones in the register part.
