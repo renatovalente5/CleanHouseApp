@@ -6,7 +6,7 @@ Application for customer users who need their homes clean <br>
   Credentials:
   
     email: jacinto.luf@gmail.com
-    pass: 12345
+    pass: 123456
   
     email: renato@gmail.com
     pass: renato
@@ -18,7 +18,7 @@ Application for cleaners <br>
   Credentials:
   
     email: ana@gmail.com
-    pass: 12345
+    pass: 123456
   ```
 # How to run the application:
 Use the credentials provided above. It is also possible to create new ones in the register part.
