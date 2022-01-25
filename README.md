@@ -1,5 +1,3 @@
-# CleanHouseApp
-
 ## CleanApp:
 Application for users who need their homes clean 
 
