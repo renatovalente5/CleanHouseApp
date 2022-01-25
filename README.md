@@ -4,11 +4,10 @@ Two android application where you can find people to clean your house. One for c
 Application for customer users who need their homes clean <br>
   ```
   Credentials:
+  
     email: jacinto.luf@gmail.com
     pass: 12345
-  
   or
-
     email: renato@gmail.com
     pass: renato
   ```
@@ -17,6 +16,7 @@ Application for cleaners <br>
   
   ```
   Credentials:
+  
     email: ana@gmail.com
     pass: 12345
   ```
