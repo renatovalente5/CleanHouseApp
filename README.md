@@ -3,7 +3,7 @@ Two android application where you can find people to clean your house. One for c
 ## CleanApp:
 Application for customer users who need their homes clean <br>
   ```
-  Credentials:
+  Login:
   
     email: renato@gmail.com
     pass: renato
@@ -12,7 +12,7 @@ Application for customer users who need their homes clean <br>
 Application for cleaners <br>
   
   ```
-  Credentials:
+  Login:
   
     email: ana@gmail.com
     pass: 123456
